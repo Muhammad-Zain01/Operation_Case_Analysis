@@ -14,4 +14,6 @@ I have some data driven recommendations are as follows:
 - In the Data, people with less than an Annual Income of $70,000 are more likely to be charge-off, so while dealing with those customers, we should have some limit, so they do not charge off.
 - If we created some strict obligatory factors, for charge-off customers It will also help us to retain customers
 
+See full Analysis Report on My Portfolio Website :- https://muhammadzain.dorik.io/portfolio1
+
 
